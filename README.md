@@ -10,18 +10,18 @@ The repository includes datasets, model outputs, evaluation scripts, and human e
 
 ## Repository Structure
 
-- /data
+/data
   - external_sources: collected troubleshooting data
   - evaluation_datasets: benchmark queries
 
-- /evaluation
+/evaluation
   - bertscore: scripts and results
   - context awareness evaluation
 
-- /human_evaluation
+/human_evaluation
   - Human_Evaluation.xlsx
     
-- /models
+/models
   - baseline_outputs_codes
   - proposed_system_outputs
   - rag_variants
